@@ -9,4 +9,4 @@ Fork the Repo and add details as described in the activity challenge:
 |---------|---------|---------|---------|
 |1     |    ChrisAchinga    |     [ChrisAchinga](https://github.com/ChrisAchinga/ChrisAchinga)    |    Not a robot     |
 |2    |    FamousBern     |     [FamousBern](https://github.com/FamousBern/FamousBern.git)    |    software developer/SysAdmin     |
-|3    |    polycarpetyang     |     [polycarpetyang](https://github.com/polycarpetyang/polycarpetyang.git)    |    code saved me. I develop Webs     |
+|3    |    polycarpetyang     |     [polycarpetyang](https://github.com/polycarpetyang/polycarpetyang.git)    |    code saved me. I develop Webs    |
