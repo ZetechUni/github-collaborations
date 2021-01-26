@@ -9,3 +9,6 @@ Fork the Repo and add details as described in the activity challenge:
 |---------|---------|---------|---------|
 |1     |    ChrisAchinga    |     [ChrisAchinga](https://github.com/ChrisAchinga/ChrisAchinga)    |    Not a robot     |
 |#    |    {user-name}     |     {repo-link}    |    {about-me}     |
+<p>nevis-adhiambo</p>
+<a href="https://github.com/nevis-adhiambo/nevis-adhiambo">Nevis Adhiambo</a>
+<p>I'm a second year computer science student. Im passionate about technology.</p>
