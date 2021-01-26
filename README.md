@@ -21,4 +21,5 @@ Fork the Repo and add details as described in the activity challenge:
 |11| I-M-B | https://github.com/I-M-B/I-M-B | Data Analyst |
 |12| Dickson Ndungu |(https://github.com/M4L1C10U5/M4L1C10U5) | Pin pointing all your vulnerabilities|
 |13 | markouma | https://github.com/markouma/markouma | Programmer |
-|11   |    Tevin-254     |    [Tevin-254](https://github.com/Tevin-254/Tevin-254.git)    |    Upcoming software engineer  |
+|14   |    Tevin-254     |    [Tevin-254](https://github.com/Tevin-254/Tevin-254.git)    |    Upcoming software engineer  |
+|15| codebatgeek | [codebatgeek](https://github.com/codebatgeek/codebatgeek.git) | Beep Boop Boop|
