@@ -27,3 +27,5 @@ Fork the Repo and add details as described in the activity challenge:
 |4|  Shaheed-ai| [Shaheed-ai](https://github.com/Shaheed-ai/Shaheed-ai.git)|Seito |
 |10 | Dennis Gesengi | [gesengi](https://github.com/gesengi/gesengi.git) |Data analyst|
 |10 | Ezra-code |[Ezra-code](https://github.com/Ezra-code/Ezra-code.git) | Fullstack web developer and app developer|
+|10| Stacy Chebet | [StacyChebet](https://github.com/StacyChebet/StacyChebet.git) | I'm a creator that loves fun|
+
