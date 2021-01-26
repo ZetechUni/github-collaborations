@@ -25,4 +25,4 @@ Fork the Repo and add details as described in the activity challenge:
 |14   |    Tevin-254     |    [Tevin-254](https://github.com/Tevin-254/Tevin-254.git)    |    Upcoming software engineer  |
 |15| codebatgeek | [codebatgeek](https://github.com/codebatgeek/codebatgeek.git) | Beep Boop Boop|
 |4|  Shaheed-ai| [Shaheed-ai](https://github.com/Shaheed-ai/Shaheed-ai.git)|Seito |
-
+|10 | Dennis Gesengi | [gesengi](https://github.com/gesengi/gesengi.git) |Data analyst|
