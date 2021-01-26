@@ -9,6 +9,7 @@ Fork the Repo and add details as described in the activity challenge:
 |---------|---------|---------|---------|
 |1     |    ChrisAchinga    |     [ChrisAchinga](https://github.com/ChrisAchinga/ChrisAchinga)    |    Not a robot     |
 |2    |    FamousBern     |     [FamousBern](https://github.com/FamousBern/FamousBern.git)    |    software developer/SysAdmin     |
+|3 |  princeAnalyst-ML   |[princeAnalyst-ML](https://github.com/princeAnalyst-ML)      |   Data scientist |
 |3    |    polycarpetyang     |     [polycarpetyang](https://github.com/polycarpetyang/polycarpetyang.git)    |    code saved me. I develop Webs    |
 |4 |  princeAnalyst-ML   |[princeAnalyst-ML](https://github.com/princeAnalyst-ML)      |   Data scientist |
 |5 |  paulmwangi556   | https://github.com/paulmwangi556/paulmwangi556 | Tech guru |
@@ -23,3 +24,5 @@ Fork the Repo and add details as described in the activity challenge:
 |13 | markouma | https://github.com/markouma/markouma | Programmer |
 |14   |    Tevin-254     |    [Tevin-254](https://github.com/Tevin-254/Tevin-254.git)    |    Upcoming software engineer  |
 |15| codebatgeek | [codebatgeek](https://github.com/codebatgeek/codebatgeek.git) | Beep Boop Boop|
+|4|  Shaheed-ai| [Shaheed-ai](https://github.com/Shaheed-ai/Shaheed-ai.git)|Seito |
+
