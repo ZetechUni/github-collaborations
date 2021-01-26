@@ -15,4 +15,5 @@ Fork the Repo and add details as described in the activity challenge:
 6  |   KarenNgugi    | [KarenNgugi](https://www.github.com/KarenNgugi)    |   Better than everybody    |
 |7 |  Alexandrina Likova   |[Alexandrina Likova](https://github.com/alexlikova)      |   Data scientist |
 |8|Deniswanja|[Deniswanja](https://github.com/Deniswanja/Denis-wanja)|software engineer|
-|9 | Grayhkamau | [Grayhkamau](https://github.com/Grayhkamau/Grayhkamau.git) | student |
+|9 | Grayhkamau | [Grayhkamau](https://github.com/Grayhkamau/Grayhkamau.git) | student | 
+|10    |    Tevin-254     |    [Tevin-254](https://github.com/Tevin-254/Tevin-254.git)    |    Upcoming software engineer  |
