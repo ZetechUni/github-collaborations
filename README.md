@@ -17,3 +17,6 @@ Fork the Repo and add details as described in the activity challenge:
 |8|Deniswanja|[Deniswanja](https://github.com/Deniswanja/Denis-wanja)|software engineer|
 |9 | Grayhkamau | [Grayhkamau](https://github.com/Grayhkamau/Grayhkamau.git) | student |
 |10 | Michelle-KW | [Michelle-KW](https://github.com/Michelle-KW/Michelle-KW.git) | resilient |
+|11| I-M-B | https://github.com/I-M-B/I-M-B | Data Analyst |
+|12| Dickson Ndungu |(https://github.com/M4L1C10U5/M4L1C10U5) | Pin pointing all your vulnerabilities|
+|13 | markouma | https://github.com/markouma/markouma | Programmer |
