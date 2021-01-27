@@ -46,4 +46,5 @@ Fork the Repo and add details as described in the activity challenge:
 |30 | shumwe |[shumwe](https://github.com/shumwe/shumwe.git) | Aspiring web developer.|
 |31|redlion47|https://github.com/redlion47/redlion47|Data Scientist|
 |32| Wambua19 | https://github.com/Wambua13/codeit |Data enthusiast|
-|33| ongechi | https://github.com/ongechi/ongechi| full stack web developer |
+|33| Denver Bogonko | https://github.com/John-Denver/John-Denver.git | Upcoming Elon. Ambitious Developer(Android, Web, Python )|
+|34| ongechi | https://github.com/ongechi/ongechi| full stack web developer |
