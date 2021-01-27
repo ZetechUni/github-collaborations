@@ -34,3 +34,5 @@ Fork the Repo and add details as described in the activity challenge:
 |25|  arnoldasuza| https://github.com/arnoldasuza/asuza| Update
  |26| Arnold | https://github.com/arnoldasuza/asuza |Trying to learn a new thing| 
 |27  |  |justus_migosi|   |https://github.com/justus-migosi/justus-migosi |   |ego  |
+|28| Wambua19 | https://github.com/Wambua13/codeit |Data enthusiast|
+
