@@ -31,4 +31,8 @@ Fork the Repo and add details as described in the activity challenge:
 |22     |     <p>nevis-adhiambo</p> |<a href="https://github.com/nevis-adhiambo/nevis-adhiambo">Nevis Adhiambo</a>    |    <p>I'm a second year computer science student. Im passionate about technology.</p>|
 |23    |    Munuve30     |     [Munuve30](https://github.com/Munuve30/Munuve30.git)    |    smart    |
 |24  |  |justus_migosi|   |https://github.com/justus-migosi/justus-migosi |   |ego  |
-|24| Wambua19 | https://github.com/Wambua13/codeit |Data enthusiast|
+|25|  arnoldasuza| https://github.com/arnoldasuza/asuza| Update
+ |26| Arnold | https://github.com/arnoldasuza/asuza |Trying to learn a new thing| 
+|27  |  |justus_migosi|   |https://github.com/justus-migosi/justus-migosi |   |ego  |
+|28| Wambua19 | https://github.com/Wambua13/codeit |Data enthusiast|
+
