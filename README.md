@@ -43,4 +43,4 @@ Fork the Repo and add details as described in the activity challenge:
 |27  |  |justus_migosi|   |https://github.com/justus-migosi/justus-migosi |   |ego  |
 |28| Wambua19 | https://github.com/Wambua13/codeit |Data enthusiast|
 |29 |chrpkorir |https://github.com/chrpkorir/chrpkorir.git | Machine Learning Analyst |
-
+|20 | shumwe |[shumwe](https://github.com/shumwe/shumwe.git) | Aspiring web developer.|
