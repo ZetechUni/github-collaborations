@@ -40,6 +40,9 @@ Fork the Repo and add details as described in the activity challenge:
 |25|  arnoldasuza| https://github.com/arnoldasuza/asuza| Update |
  |26| Arnold | https://github.com/arnoldasuza/asuza |Trying to learn a new thing| 
 |27  | justus_migosi|   |https://github.com/justus-migosi/justus-migosi | ego  |
+|24 | justus_migosi|   |https://github.com/justus-migosi/justus-migosi | eagle |
+|25|  arnoldasuza| https://github.com/arnoldasuza/asuza| Update |
+ |26| Arnold | https://github.com/arnoldasuza/asuza |Trying to learn a new thing| 
 |28| brianchebon|https://github.com/brianchebon/brianchebon.git|A.I Enthusiast|  
 |29 |chrpkorir |https://github.com/chrpkorir/chrpkorir.git | Machine Learning Analyst |
 |30 | shumwe |[shumwe](https://github.com/shumwe/shumwe.git) | Aspiring web developer.|
@@ -47,3 +50,4 @@ Fork the Repo and add details as described in the activity challenge:
 |32| Wambua19 | https://github.com/Wambua13/codeit |Data enthusiast|
 |33| Denver Bogonko | https://github.com/John-Denver/John-Denver.git | Upcoming Elon. Ambitious Developer(Android, Web, Python )|
 |34| ongechi | https://github.com/ongechi/ongechi| full stack web developer |
+
