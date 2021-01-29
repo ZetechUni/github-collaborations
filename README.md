@@ -53,4 +53,4 @@ Fork the Repo and add details as described in the activity challenge:
 |35| fidelis452 | https://github.com/fidelis452/fidelis452  | student , upcoming full stack developer|
 |36 |  Wanjiku-Gichia|https://github.com/Wanjiku-Gichia/Wanjiku-Gichia |python beginner|
 |37| muroki-eric | https://github.com/muroki-eric/muroki-eric | Enthusiast|
-|38 |    truestbyheart     |     https://github.com/truestbyheart/truestbyheart    |    I am full-stack nodejs developer     |
+|38 | truestbyheart | https://github.com/truestbyheart/truestbyheart  | I am full-stack nodejs developer |
