@@ -53,4 +53,4 @@ Fork the Repo and add details as described in the activity challenge:
 |35| fidelis452 | https://github.com/fidelis452/fidelis452  | student , upcoming full stack developer|
 |36 |  Wanjiku-Gichia|https://github.com/Wanjiku-Gichia/Wanjiku-Gichia |python beginner|
 |37| muroki-eric | https://github.com/muroki-eric/muroki-eric | Enthusiast|
-|16   |    Pelusharaz   |    [Pelusharaz](https://github.com/Pelusharaz/Pelusharaz)    |    Upcoming software engineer  |
+|38  |    Pelusharaz   |    [Pelusharaz](https://github.com/Pelusharaz/Pelusharaz)    |    Upcoming software engineer  |
