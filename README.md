@@ -51,3 +51,5 @@ Fork the Repo and add details as described in the activity challenge:
 |33| Denver Bogonko | https://github.com/John-Denver/John-Denver.git | Upcoming Elon. Ambitious Developer(Android, Web, Python )|
 |34| ongechi | https://github.com/ongechi/ongechi| full stack web developer |
 |35 |  Wanjiku-Gichia|https://github.com/Wanjiku-Gichia/Wanjiku-Gichia |python beginner|
+|35| muroki-eric | https://github.com/muroki-eric/muroki-eric | Enthusiast|
+
