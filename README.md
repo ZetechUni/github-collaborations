@@ -50,6 +50,7 @@ Fork the Repo and add details as described in the activity challenge:
 |32| Wambua19 | https://github.com/Wambua13/codeit |Data enthusiast|
 |33| Denver Bogonko | https://github.com/John-Denver/John-Denver.git | Upcoming Elon. Ambitious Developer(Android, Web, Python )|
 |34| ongechi | https://github.com/ongechi/ongechi| full stack web developer |
+|35| Tintin72 | https://github.com/Tintin72/Tintin72 | Web developer |
 |35| fidelis452 | https://github.com/fidelis452/fidelis452  | student , upcoming full stack developer|
 |36 |  Wanjiku-Gichia|https://github.com/Wanjiku-Gichia/Wanjiku-Gichia |python beginner|
 |37| muroki-eric | https://github.com/muroki-eric/muroki-eric | Enthusiast|
