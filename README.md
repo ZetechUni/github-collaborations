@@ -57,3 +57,4 @@ Fork the Repo and add details as described in the activity challenge:
 |38| ikimathi | https://github.com/ikimathi/ikimathi.git | all about data wrangling idk |
 |39| lilian-mwangi |[lilian-mwangi](https://github.com/lilian-mwangi/lilian-mwangi.git)| learning|
 |40 | truestbyheart | https://github.com/truestbyheart/truestbyheart  | I am full-stack nodejs developer |
+|41 |    Pelusharaz   |    [Pelusharaz](https://github.com/Pelusharaz/Pelusharaz)    |    Upcoming software engineer  |
