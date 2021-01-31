@@ -55,4 +55,4 @@ Fork the Repo and add details as described in the activity challenge:
 |36 |  Wanjiku-Gichia|https://github.com/Wanjiku-Gichia/Wanjiku-Gichia |python beginner|
 |37| muroki-eric | https://github.com/muroki-eric/muroki-eric | Enthusiast|
 |38| ikimathi | https://github.com/ikimathi/ikimathi.git | all about data wrangling idk |
-
+|39| lilian-mwangi |[lilian-mwangi](https://github.com/lilian-mwangi/lilian-mwangi.git)| learning|
