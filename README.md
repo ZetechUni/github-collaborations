@@ -23,7 +23,7 @@ Fork the Repo and add details as described in the activity challenge:
 7  |   KarenNgugi    | [KarenNgugi](https://www.github.com/KarenNgugi)    |   Better than everybody    |
 |8 |  Alexandrina Likova   |[Alexandrina Likova](https://github.com/alexlikova)      |   Data scientist |
 |9|Deniswanja|[Deniswanja](https://github.com/Deniswanja/Denis-wanja)|software engineer|
-|10 | Grayhkamau | [Grayhkamau](https://github.com/Grayhkamau/Grayhkamau.git) | student | 
+|10 | Grayhkamau | [Grayhkamau](https://github.com/Grayhkamau/Grayhkamau.git) | student |
 |11 | Grayhkamau | [Grayhkamau](https://github.com/Grayhkamau/Grayhkamau.git) | student |
 |12 | Michelle-KW | [Michelle-KW](https://github.com/Michelle-KW/Michelle-KW.git) | resilient |
 |13| I-M-B | https://github.com/I-M-B/I-M-B | Data Analyst |
@@ -38,11 +38,11 @@ Fork the Repo and add details as described in the activity challenge:
 |22     |     <p>nevis-adhiambo</p> |<a href="https://github.com/nevis-adhiambo/nevis-adhiambo">Nevis Adhiambo</a>    |    <p>I'm a second year computer science student. Im passionate about technology.</p>|
 |23    |    Munuve30     |     [Munuve30](https://github.com/Munuve30/Munuve30.git)    |    smart    |
 |25|  arnoldasuza| https://github.com/arnoldasuza/asuza| Update |
- |26| Arnold | https://github.com/arnoldasuza/asuza |Trying to learn a new thing| 
+ |26| Arnold | https://github.com/arnoldasuza/asuza |Trying to learn a new thing|
 |27  | justus_migosi|   |https://github.com/justus-migosi/justus-migosi | ego  |
 |24 | justus_migosi|   |https://github.com/justus-migosi/justus-migosi | eagle |
 |25|  arnoldasuza| https://github.com/arnoldasuza/asuza| Update |
- |26| Arnold | https://github.com/arnoldasuza/asuza |Trying to learn a new thing| 
+ |26| Arnold | https://github.com/arnoldasuza/asuza |Trying to learn a new thing|
 |28| brianchebon|https://github.com/brianchebon/brianchebon.git|A.I Enthusiast|  
 |29 |chrpkorir |https://github.com/chrpkorir/chrpkorir.git | Machine Learning Analyst |
 |30 | shumwe |[shumwe](https://github.com/shumwe/shumwe.git) | Aspiring web developer.|
@@ -51,4 +51,7 @@ Fork the Repo and add details as described in the activity challenge:
 |33| Denver Bogonko | https://github.com/John-Denver/John-Denver.git | Upcoming Elon. Ambitious Developer(Android, Web, Python )|
 |34| ongechi | https://github.com/ongechi/ongechi| full stack web developer |
 |35| Tintin72 | https://github.com/Tintin72/Tintin72 | Web developer |
+|35| fidelis452 | https://github.com/fidelis452/fidelis452  | student , upcoming full stack developer|
+|36 |  Wanjiku-Gichia|https://github.com/Wanjiku-Gichia/Wanjiku-Gichia |python beginner|
+|37| muroki-eric | https://github.com/muroki-eric/muroki-eric | Enthusiast|
 
