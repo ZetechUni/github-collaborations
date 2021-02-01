@@ -34,6 +34,7 @@ Fork the Repo and add details as described in the activity challenge:
 |18|  Shaheed-ai| [Shaheed-ai](https://github.com/Shaheed-ai/Shaheed-ai.git)|Seito |
 |19 | Dennis Gesengi | [gesengi](https://github.com/gesengi/gesengi.git) |Data analyst|
 |20 | Ezra-code |[Ezra-code](https://github.com/Ezra-code/Ezra-code.git) | Fullstack web developer and app developer|
+|21|Timothyagevi |https://github.com/TimothyAgevi/TimothyAgevi | Data enthusiast
 |21| Stacy Chebet | [StacyChebet](https://github.com/StacyChebet/StacyChebet.git) | I'm a creator that loves fun|
 |22     |     <p>nevis-adhiambo</p> |<a href="https://github.com/nevis-adhiambo/nevis-adhiambo">Nevis Adhiambo</a>    |    <p>I'm a second year computer science student. Im passionate about technology.</p>|
 |23    |    Munuve30     |     [Munuve30](https://github.com/Munuve30/Munuve30.git)    |    smart    |
