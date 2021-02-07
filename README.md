@@ -34,6 +34,7 @@ Fork the Repo and add details as described in the activity challenge:
 |18|  Shaheed-ai| [Shaheed-ai](https://github.com/Shaheed-ai/Shaheed-ai.git)|Seito |
 |19 | Dennis Gesengi | [gesengi](https://github.com/gesengi/gesengi.git) |Data analyst|
 |20 | Ezra-code |[Ezra-code](https://github.com/Ezra-code/Ezra-code.git) | Fullstack web developer and app developer|
+|21|Timothyagevi |https://github.com/TimothyAgevi/TimothyAgevi | Data enthusiast
 |21| Stacy Chebet | [StacyChebet](https://github.com/StacyChebet/StacyChebet.git) | I'm a creator that loves fun|
 |22     |     <p>nevis-adhiambo</p> |<a href="https://github.com/nevis-adhiambo/nevis-adhiambo">Nevis Adhiambo</a>    |    <p>I'm a second year computer science student. Im passionate about technology.</p>|
 |23    |    Munuve30     |     [Munuve30](https://github.com/Munuve30/Munuve30.git)    |    smart    |
@@ -59,3 +60,5 @@ Fork the Repo and add details as described in the activity challenge:
 |40 | truestbyheart | https://github.com/truestbyheart/truestbyheart  | I am full-stack nodejs developer |
 |41 |    Pelusharaz   |    [Pelusharaz](https://github.com/Pelusharaz/Pelusharaz)    |    Upcoming software engineer  |
 |42 | Davidkioko      |    [https://github.com/Davidkioko/Davidkioko]  | A Friend |
+|43|    hannah-544     |https://github.com/hannah-544/hannah-544 |Intermediate Python programmer   |
+
