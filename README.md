@@ -59,5 +59,6 @@ Fork the Repo and add details as described in the activity challenge:
 |39| lilian-mwangi |[lilian-mwangi](https://github.com/lilian-mwangi/lilian-mwangi.git)| learning|
 |40 | truestbyheart | https://github.com/truestbyheart/truestbyheart  | I am full-stack nodejs developer |
 |41 |    Pelusharaz   |    [Pelusharaz](https://github.com/Pelusharaz/Pelusharaz)    |    Upcoming software engineer  |
-|42|    hannah-544     |https://github.com/hannah-544/hannah-544 |Intermediate Python programmer   |
+|42 | Davidkioko      |    [https://github.com/Davidkioko/Davidkioko]  | A Friend |
+|43|    hannah-544     |https://github.com/hannah-544/hannah-544 |Intermediate Python programmer   |
 
